@@ -1,0 +1,13 @@
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+lancedb
+pydantic
+requests
+tqdm
+beautifulsoup4
+pymupdf
+torch
+numpy
+pandas
